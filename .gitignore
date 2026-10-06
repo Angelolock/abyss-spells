@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# NeoForge run dirs
+run/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local
+local.properties

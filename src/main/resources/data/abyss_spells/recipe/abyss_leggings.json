@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "irons_spellbooks:wizard_leggings"
+    },
+    {
+      "item": "abyss_spells:abyss_heart"
+    }
+  ],
+  "result": {
+    "id": "abyss_spells:abyss_leggings",
+    "count": 1
+  }
+}

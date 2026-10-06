@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  H",
+    " E ",
+    "E  "
+  ],
+  "key": {
+    "H": {
+      "item": "abyss_spells:abyss_heart"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "id": "abyss_spells:abyss_staff",
+    "count": 1
+  }
+}
